@@ -37,7 +37,7 @@
   // Converts hex to an RGB array
   function toRGB (code) {
     if (code.length == 4) {
-      code = jQuery.map(/\w+/.exec(code), function(el) {return el + el; }).join("");
+      code = jQuery.map(/\w+/.exec(code), function(el) {return el + el; }).join(");
     }
     hex = /(\w{2})(\w{2})(\w{2})/.exec(code);
     return [parseInt(hex[1], 16), parseInt(hex[2], 16), parseInt(hex[3], 16)];
@@ -49,7 +49,7 @@
       hex =  i.toString(16);
       hex = (hex.length == 1) ? "0" + hex : hex;
       return hex;
-    }).join("");
+    }).join(");
   }
 
   function colorIncrement (color, range) {

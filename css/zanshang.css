@@ -122,7 +122,7 @@ button.close {
     border-width: 0 7px 7px 7px;
     border-color: transparent  transparent #f6f6f6 transparent;
     border-style: dashed dashed solid dashed;
-    content: "";
+    content: ";
     position: absolute;
     left: 8px;
     top: -7px;
