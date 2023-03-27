@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Istio on Time To Become A .Net Web Developer!</title>
+    <title>Istio on Time To Become .Net Web Developer!</title>
     <link>https://lien-chu.github.io/Myblog.github.io/tags/istio/</link>
-    <description>Recent content in Istio on Time To Become A .Net Web Developer!</description>
+    <description>Recent content in Istio on Time To Become .Net Web Developer!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/Myblog.github.io/tags/istio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istio v1aplha3 routing API介绍(译文）</title>

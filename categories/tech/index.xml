@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Time To Become A .Net Web Developer!</title>
+    <title>Tech on Time To Become .Net Web Developer!</title>
     <link>https://lien-chu.github.io/Myblog.github.io/categories/tech/</link>
-    <description>Recent content in Tech on Time To Become A .Net Web Developer!</description>
+    <description>Recent content in Tech on Time To Become .Net Web Developer!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/Myblog.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Example Post</title>
+      <link>https://lien-chu.github.io/Myblog.github.io/post/hello_world/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/Myblog.github.io/post/hello_world/</guid>
+      <description>Hello World This is an example post. It&amp;rsquo;s different from a page because it will show up in your site&amp;rsquo;s main index, and you can have multiple of them. It&amp;rsquo;s also easy to get them up and running, as this post demonstrates.</description>
+    </item>
+    
     <item>
       <title>Istio v1aplha3 routing API介绍(译文）</title>
       <link>https://lien-chu.github.io/Myblog.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
